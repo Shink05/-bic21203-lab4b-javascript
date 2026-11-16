@@ -15,7 +15,7 @@
 3. `jquery-dom.html` needs an internet connection to load jQuery from `https://code.jquery.com/jquery-4.0.0.min.js`.
 
 ## Screenshots
-![Q1](screenshots/q1_json.png)
-![Q2](screenshots/q2_output.png)
-![Q2 error](screenshots/q2_error_404.png)
-![Q3](screenshots/q3_after_load.png)
+![Q1](bic21203-lab4b-json-jquery/screenshots/q1_json.png)
+![Q2](bic21203-lab4b-json-jquery/screenshots/q2_output.png)
+![Q2 error](bic21203-lab4b-json-jquery/screenshots/q2_error_404.png)
+![Q3](bic21203-lab4b-json-jquery/screenshots/q3_after_load.png)
